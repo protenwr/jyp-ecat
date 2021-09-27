@@ -4,9 +4,9 @@ cd ../oshw
 make
 cd ../soem
 make
-cd ../test/slaveinfo
+cd ../test/ebox
 make
-cd ../../test/ebox
+cd ../../test/slaveinfo
 make
 cd ../../test/jyp_ecat
 make
